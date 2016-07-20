@@ -7,6 +7,9 @@ Optimized selection of file system compression algorithm based on file contents 
 
 **Win 10 Compression Helpers** - A set of batch files to compress a set of folders with one of the new Windows 10 file system compression algorithms. Place shortcuts in "Send To" folder and use it directly with folders in explorer.
 
-**Tiered Storage Optimization** - A powershell script that when used in conjunction with a tiered storage space, automatically pins files to the slow tier that do not benefit from the speed of a solid state drive. This technique can save *very* large amounts of disk space when used with a folder of games. 
+**Drive Swap** - A batch file that automates the process of shifting folders between two drives, and using hard links/junctions to link back to them. Similar functionalilty to Steam Mover, and makes swapping giant game folders between drives a piece of cake. Compression functionality is built in as well, but currently commented out. Parameters should be fairly self-explanatory.
 
-**HDD Swap** - A batch file that automates the process of shifting folders between two drives, and using hard links/junctions to link back to them. Similar functionalilty to Steam Mover, and makes swapping giant game folders between drives a piece of cake. Compression functionality is built in as well, but currently commented out.  
+**Tiered Storage Optimization** - A powershell script that when used in conjunction with a tiered storage space, automatically pins files to the slow tier that do not benefit from the speed of a solid state drive. This technique can save *very* large amounts of disk space when used with a folder of games. Because it uses storage spaces as a foundation, it is extremely safe to use and does not put data at risk.
+
+**Hybridizer** - A simple C# program that can selectively move files to another drive and symbolically link back, effectively giving the user the ability to manually create tiered storage. Requires elevation, and is virtually guaranteed to break things, so *use at your own risk, preferably not at all.* Primarily a proof of concept, but perfectly usable if you're comfortable with file system manipulation and are willing to risk non-critical data.
+
