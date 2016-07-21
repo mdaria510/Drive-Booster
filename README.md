@@ -1,9 +1,7 @@
 # Drive-Booster
-Optimized selection of file system compression algorithm based on file contents to minimize storage usage while maximizing performance.
-
 With Windows 10, Microsoft added several new file system compression algorithms, and hid them away in the compact.exe utility. Unlike NTFS compression, these algorithms are multi-threaded and adequately fast enough to use for real time applications - however there are many usability issues with their implementation that make it insuitable for "set it and forget it" usage. This program was initially conceived to solve those usability issues with a GUI, but before long I realized there was far more potential.
 
-In a nutshell, solid state drives are still way too expensive to store a huge library of games. NTFS compression is slow to decode and has a poor compression ratio. The new algorithms are much more efficient, and have a much wider range of performance/ratio. The highest ratio algorithm, LZX, can have a measurable performance hit on load times. What was needed was a way to determine which files would benefit most from higher compression, which should be only lightly touched because they are performance critical, and which should not be compressed at all, typically because they are already compressed. A lot of work went into analyzing millions of files and load patterns to come up with the ideal mix. The goal is to compress as much as possible without compromising performance at all. Initial tests have shown it is very close to that ideal.  
+In a nutshell, solid state drives are still way too expensive to store a huge library of games and programs. NTFS compression is slow to decode and has a poor compression ratio. The new algorithms are much more efficient, and have a much wider range of performance/ratio. The highest ratio algorithm, LZX, can have a measurable performance hit on load times. What was needed was a way to determine which files would benefit most from higher compression, which should be only lightly touched because they are performance critical, and which should not be compressed at all, typically because they are already compressed. A lot of work went into analyzing millions of files and load patterns to come up with the ideal mix. The goal is to compress as much as possible without compromising performance at all. Initial tests have shown it is very close to that ideal.  
 
 Results may vary significantly. Indie games tend to compress very well, but AAA games are often pre-compressed. For some reason, Oculus games compress very, very well. On my 1TB games library with a mix of games, total savings is about 10-20%. 
 
@@ -18,7 +16,7 @@ Unfortunately, I'm a not a professional developer by day (yet), and while the co
 
 
 
-#### A set of helper utilities and scripts are also available.
+#### A set of helper utilities and scripts are also available:
 
 **Win 10 Compression Helpers** - A set of batch files to compress a set of folders with one of the new Windows 10 file system compression algorithms. Place shortcuts in "Send To" folder and use it directly with folders in explorer.
 
