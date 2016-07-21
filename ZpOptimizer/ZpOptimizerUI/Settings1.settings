@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ZpOptimizerUI" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="defaultFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\steam\steamapps\common</Value>
+    </Setting>
+    <Setting Name="locationList" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;C:\Program Files (x86)\Steam\Steamapps\common&lt;/string&gt;
+  &lt;string&gt;C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games&lt;/string&gt;
+  &lt;string&gt;C:\Program Files (x86)\Origin Games&lt;/string&gt;
+  &lt;string&gt;C:\Program Files (x86)\GalaxyClient\Games&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

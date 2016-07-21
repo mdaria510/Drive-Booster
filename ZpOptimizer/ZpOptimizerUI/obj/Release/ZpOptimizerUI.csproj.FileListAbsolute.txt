@@ -1,0 +1,15 @@
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\bin\Release\ZpOptimizerUI.exe.config
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\bin\Release\ZpOptimizerUI.exe
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\bin\Release\ZpOptimizerUI.pdb
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\bin\Release\OptimizerEngine.dll
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\bin\Release\OptimizerEngine.pdb
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\obj\Release\ZpOptimizerUI.csprojResolveAssemblyReference.cache
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\obj\Release\ZpOptimizerUI.Properties.Resources.resources
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\obj\Release\ZpOptimizerUI.ZpOptimizerUI.resources
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\obj\Release\ZpOptimizerUI.csproj.GenerateResource.Cache
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\obj\Release\ZpOptimizerUI.exe
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\obj\Release\ZpOptimizerUI.pdb
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\bin\Release\ObjectListView.dll
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\bin\Release\ObjectListView.pdb
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\bin\Release\ObjectListView.xml
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\ZpOptimizerUI\obj\Release\ZpOptimizerUI.OptionsForm.resources

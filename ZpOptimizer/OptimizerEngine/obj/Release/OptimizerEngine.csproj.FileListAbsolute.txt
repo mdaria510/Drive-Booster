@@ -1,0 +1,7 @@
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\OptimizerEngine\bin\Release\OptimizerEngine.dll
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\OptimizerEngine\bin\Release\OptimizerEngine.pdb
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\OptimizerEngine\obj\Release\OptimizerEngine.Resources.resources
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\OptimizerEngine\obj\Release\OptimizerEngine.csproj.GenerateResource.Cache
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\OptimizerEngine\obj\Release\OptimizerEngine.dll
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\OptimizerEngine\obj\Release\OptimizerEngine.pdb
+D:\Users\Mark\OneDrive\ZP\Github\PiedPiper\ZpOptimizer\OptimizerEngine\obj\Release\OptimizerEngine.csprojResolveAssemblyReference.cache
